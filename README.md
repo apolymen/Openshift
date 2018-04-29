@@ -1,0 +1,1 @@
+# Openshift related stuff
